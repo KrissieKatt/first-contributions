@@ -5,6 +5,7 @@
 - [Sonu Hansda](https://github.com/Sonu-Hansda)
 - [Alec Smith](https://github.com/sharktankful)
 - [Marko Cuk](https://github.com/MarkoCuk54)
+- [Krissie Knight] (https://github.com/KrissieKatt)
 - [Abstaina Ephraim] (https://github.com/Abstaina44)
 - [Arth Patel](https://github.com/Arthpatel01)
 - [rita faretra](https://github.com/peterston-e)
